@@ -1799,4 +1799,4 @@ function windowResized() {
     thr_charPoints = []; thr_nodes = []; thr_redThreads = [];
     thr_buildCharImage(); thr_createNodes(); thr_createThreads();
   }
-}
+} 
